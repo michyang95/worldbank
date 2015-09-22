@@ -10,3 +10,8 @@ Wo ai ni
 
 * Appel
 * Citroen
+	* Slechte
+	* hallal
+* Vlees
+	* Melk  
+	Twee spaties na melk
